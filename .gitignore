@@ -4,6 +4,7 @@ __pycache__/
 *$py.class
 dataset/
 data.npy
+data_filtered.fif
 
 # C extensions
 *.so
